@@ -263,6 +263,10 @@ html {
     .mobile-menu {
         display: block;
     }
+    
+    header h1 a {
+        width:100%
+    }
 
     header ul {
         display: none;
